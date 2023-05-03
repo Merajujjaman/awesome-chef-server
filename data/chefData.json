@@ -5,7 +5,7 @@
         "chefName": "John Doe",
         "chefBio": "John Doe is a renowned American chef with over 20 years of experience in the culinary world. He has worked in some of the finest restaurants in the country and is known for his innovative approach to cooking. His passion for food has led him to create some of the most popular dishes in the industry.",
         "yearsOfExperience": 20,
-        "numOfRecipes": 50,
+        "numberOfRecipes": 50,
         "likes": 1000,
         "recipes": [
             {

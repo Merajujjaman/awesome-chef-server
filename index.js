@@ -11,7 +11,13 @@ app.get('/', (req, res) => {
 })
 
 app.get('/data', (req, res) => {
-    res.json(data)
+    res.send(data)
+})
+
+app.get('/data/:id', (req, res) => {
+    const id = req.params.id;
+    const singleData = data.find(n => n.id == id)
+    res.send(singleData);
 })
 
 
