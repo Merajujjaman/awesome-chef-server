@@ -1,0 +1,335 @@
+[
+    {
+        "id": "chf_001",
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1683048345~exp=1683048945~hmac=4d2cafea0361a65dbf70da9a3277e2fbb2fc56833549309faa715f0062dfa6a4",
+        "chefName": "John Doe",
+        "chefBio": "John Doe is a renowned American chef with over 20 years of experience in the culinary world. He has worked in some of the finest restaurants in the country and is known for his innovative approach to cooking. His passion for food has led him to create some of the most popular dishes in the industry.",
+        "yearsOfExperience": 20,
+        "numOfRecipes": 50,
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipeId": "chf_001_rec_001",
+                "recipeName": "Grilled Salmon with Asparagus",
+                "recipeImage": "https://img.freepik.com/free-photo/baked-salmon-garnished-with-asparagus-tomatoes-with-herbs_2829-14476.jpg?w=1060&t=st=1683048508~exp=1683049108~hmac=24b1c84d78c4a1ac1a20a1c17dc20c1406fa989bf825b06e8c15247465fe8aac",
+                "ingredients": [
+                    "Salmon fillet",
+                    "Asparagus",
+                    "Lemon",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Grill the salmon and asparagus until cooked through. Squeeze lemon juice on top and drizzle with olive oil. Sprinkle with salt to taste.",
+                "rating": 4.5
+            },
+            {
+                "recipeId": "chf_001_rec_002",
+                "recipeName": "Lobster Risotto",
+                "recipeImage": "https://img.freepik.com/free-photo/dinner-noodle-chicken-cuisine-food_1203-4417.jpg?2&w=996&t=st=1683048602~exp=1683049202~hmac=4343b31f2bfc1eeefe02b123582387c82f470db2ac0e7281d91c97b2968d4821",
+                "ingredients": [
+                    "Lobster",
+                    "Arborio rice",
+                    "White wine",
+                    "Chicken broth",
+                    "Parmesan cheese"
+                ],
+                "cookingMethod": "Cook the lobster and set aside. In a separate pan, sauté the rice with white wine. Gradually add the chicken broth and stir until the rice is cooked. Add the lobster and grated Parmesan cheese, stir well and serve.",
+                "rating": 4.8
+            },
+            {
+                "recipeId": "chf_001_rec_003",
+                "recipeName": "Steak with Roasted Vegetables",
+                "recipeImage": "https://img.freepik.com/free-photo/pork-steak-with-tomato-carrot-red-onion-peppermint-butterfly-pea-flower-lime_1150-25865.jpg?w=996&t=st=1683048735~exp=1683049335~hmac=a1a1f4544af609dabbe1830e8245baca0bc1c478026ed171f4b9cc9c2383aa02",
+                "ingredients": [
+                    "Ribeye steak",
+                    "Carrots",
+                    "Potatoes",
+                    "Brussels sprouts",
+                    "Garlic"
+                ],
+                "cookingMethod": "Season the steak with salt and pepper and grill to desired doneness. Roast the vegetables with garlic and olive oil until tender. Serve the steak and vegetables together.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "password123",
+        "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683048827~exp=1683049427~hmac=1e49c54648eed30b7dc376ba4ace6be8de35ce0b0fd8845ddd6e35e045f578bb",
+        "chefName": "Kavin Smith",
+        "chefBio": "Jane Smith is an award-winning chef with over 20 years of experience in the culinary arts. She graduated from the Culinary Institute of America and has worked at several top restaurants across the United States. She is known for her innovative and creative approach to cooking, using fresh, seasonal ingredients to create unique and flavorful dishes.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 50,
+        "likes": 10000,
+        "recipes": [
+            {
+                "recipeId": "recipe1",
+                "recipeName": "Grilled Salmon with Mango Salsa",
+                "recipeImage": "https://img.freepik.com/free-photo/smoked-salmon-salad-with-vegetables_1147-539.jpg?w=996&t=st=1683048922~exp=1683049522~hmac=857cf9c8ff125d0fc8058ff74053815222c50543ec1c463ed312a7c05ffc0659",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mango",
+                    "Red onion",
+                    "Cilantro",
+                    "Lime juice",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cookingMethod": "Grill the salmon fillets and top with a fresh mango salsa made with diced mango, red onion, cilantro, lime juice, salt, and pepper.",
+                "rating": 4.5
+            },
+            {
+                "recipeId": "recipe2",
+                "recipeName": "Spicy Shrimp Pasta",
+                "recipeImage": "hhttps://img.freepik.com/free-photo/chinese-cuisine-sour-sweet-spare-rib-with-pineapple-cucumber_1205-12111.jpg?w=996&t=st=1683049248~exp=1683049848~hmac=ac5b384de17c58a4c42c283d5e11bc78235c2a6d853c978f1de6c251f361ee9f",
+                "ingredients": [
+                    "Spaghetti",
+                    "Shrimp",
+                    "Garlic",
+                    "Red pepper flakes",
+                    "Heavy cream",
+                    "Parmesan cheese"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions. In a pan, cook shrimp with garlic and red pepper flakes. Add heavy cream and Parmesan cheese and stir until melted. Toss with spaghetti and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipeId": "recipe3",
+                "recipeName": "Roasted Vegetable Salad",
+                "recipeImage": "https://img.freepik.com/free-photo/local-food-meal-assortment_23-2148833772.jpg?w=996&t=st=1683050148~exp=1683050748~hmac=a97fa351abd1b7d8e99ccd5afd66e647a4a69e14796ea557972f88ca6ea0b3cc",
+                "ingredients": [
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Balsamic vinegar",
+                    "Honey",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cookingMethod": "Roast mixed vegetables with olive oil, salt, and pepper. Whisk together balsamic vinegar, honey, salt, and pepper to make a dressing. Toss vegetables with dressing and serve.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "12345",
+        "chefPicture": "https://img.freepik.com/free-photo/pleased-young-male-cook-chef-uniform-showing-empty-hand-doing-ok-sign-isolated-orange-space_141793-44752.jpg?w=996&t=st=1683050303~exp=1683050903~hmac=8159c2ea5ccf74ab548d0edae0560dc8446f8491dd6f3c27c00b0c4399bfa045",
+        "chefName": "Avery Johnson",
+        "chefBio": "Avery Johnson is a celebrated chef who has worked in some of the finest restaurants in the country. With over 20 years of experience, he has mastered the art of combining flavors and textures to create dishes that are as beautiful as they are delicious.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 75,
+        "likes": 1200,
+        "recipes": [
+            {
+                "recipeId": "r1",
+                "recipeName": "Grilled Salmon with Avocado Salsa",
+                "recipeImage": "https://img.freepik.com/free-photo/delicious-grilled-salmon_1147-493.jpg?w=996&t=st=1683050370~exp=1683050970~hmac=854c709726cbf28748689a02be01af075643c06e96b4c26e6b7ed57d575fc345",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Lime juice",
+                    "Olive oil",
+                    "Garlic",
+                    "Cumin",
+                    "Avocado",
+                    "Red onion",
+                    "Cilantro",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cookingMethod": "Grill the salmon fillets until they're cooked through, then top with a delicious avocado salsa made with red onion, cilantro, and lime juice.",
+                "rating": 4.8
+            },
+            {
+                "recipeId": "r2",
+                "recipeName": "Shrimp and Grits",
+                "recipeImage": "https://img.freepik.com/free-photo/shrimp-sauteed-garlic-soy-caramel_2829-19579.jpg?w=996&t=st=1683050471~exp=1683051071~hmac=6f4f2bd3fa0f3443f2adc8b5cc300b4ab764a74886ebc174dbeb61001e9f803b",
+                "ingredients": [
+                    "Shrimp",
+                    "Grits",
+                    "Butter",
+                    "Heavy cream",
+                    "Chicken broth",
+                    "Garlic",
+                    "Cajun seasoning",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cookingMethod": "Cook the grits until they're tender, then stir in butter, heavy cream, and chicken broth to make them extra creamy. Meanwhile, sauté the shrimp with garlic and Cajun seasoning until they're cooked through, then serve over the grits.",
+                "rating": 4.6
+            },
+            {
+                "recipeId": "r3",
+                "recipeName": "Roast Chicken with Herbs",
+                "recipeImage": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683050564~exp=1683051164~hmac=ded409f4e3a4a05e9a2619b417c0ba57f02f5c7e216b84077c372b65149f5d3d",
+                "ingredients": [
+                    "Whole chicken",
+                    "Butter",
+                    "Garlic",
+                    "Lemon",
+                    "Thyme",
+                    "Rosemary",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cookingMethod": "Rub the chicken with butter and herbs, then roast it in the oven until it's golden brown and cooked through. Squeeze fresh lemon juice over the top before serving.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "abc123xyz",
+        "chefPicture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-isolated-white-wall_141793-78421.jpg?w=996&t=st=1683050732~exp=1683051332~hmac=84e55c1aad047f22357d8ff6d84cb47087fd27298ef57ac887c533d6fa0c2049",
+        "chefName": "Rajesh Kumar",
+        "chefBio": "Rajesh Kumar is an award-winning chef with over 20 years of experience in Indian cuisine. He grew up in a family of chefs and learned the art of cooking from his grandfather. Rajesh's passion for food has taken him all over India, where he has learned about the different regional cuisines and ingredients. He believes that cooking is an art that should be shared and enjoyed by everyone.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 50,
+        "likes": 10000,
+        "recipes": [
+            {
+                "recipeId": "r001",
+                "recipeName": "Chicken Tikka Masala",
+                "recipeImage": "https://img.freepik.com/free-photo/side-view-chicken-kebab-with-grilled-hot-green-pepper-tomato-pickled-cabbage-rice-pita_141793-4837.jpg?w=996&t=st=1683050794~exp=1683051394~hmac=a8b3618fd2e6824e62bb852075dd30f5c3a242332bc12dbcab6622d75cacc396",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "ginger",
+                    "garlic",
+                    "tomatoes"
+                ],
+                "cookingMethod": "Marinate chicken in yogurt and spices, then grill or bake. Make a sauce with tomatoes, cream, and spices, then add the cooked chicken. Serve with rice and naan.",
+                "rating": 4.8
+            },
+            {
+                "recipeId": "r002",
+                "recipeName": "Palak Paneer",
+                "recipeImage": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=996&t=st=1683050856~exp=1683051456~hmac=6ca9797d672b0fdad1c425834d6b6d6f245709b43dce6d08e8531b697677591c",
+                "ingredients": [
+                    "spinach",
+                    "paneer",
+                    "onion",
+                    "tomatoes",
+                    "cream"
+                ],
+                "cookingMethod": "Cook spinach until wilted, then blend with spices. Fry paneer until golden, then add to the spinach. Make a tomato and onion sauce, then add the spinach and paneer. Serve with rice or naan.",
+                "rating": 4.5
+            },
+            {
+                "recipeId": "r003",
+                "recipeName": "Masala Chai",
+                "recipeImage": "https://img.freepik.com/free-photo/high-angle-delicious-indian-drink_23-2149312361.jpg?w=996&t=st=1683050989~exp=1683051589~hmac=2dff51952278a96b0258dab180291840d02945e6025f140abb2e833a1d2bb0eb",
+                "ingredients": [
+                    "tea",
+                    "milk",
+                    "spices",
+                    "sugar"
+                ],
+                "cookingMethod": "Boil water, tea, and spices together. Add milk and sugar, then boil again. Strain and serve hot.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "jap-chef-1234",
+        "chefPicture": "https://img.freepik.com/free-photo/young-pleased-blonde-female-chef-chef-uniform-gestures-ok-hand-sign-points-side-isolated-green-wall_141793-35328.jpg?w=900&t=st=1683051168~exp=1683051768~hmac=5621e25cf1946d607fdfa439e41cb3113359a0db03b4fbe811dca6e2c25b038a",
+        "chefName": "Yumi Nakamura",
+        "chefBio": "Yumi Nakamura is a Japanese chef with over 20 years of experience. She has trained in some of the top restaurants in Japan and specializes in traditional Japanese cuisine. Her passion for cooking began at a young age, and she continues to explore new flavors and techniques in her cooking.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 50,
+        "likes": 10000,
+        "recipes": [
+            {
+                "recipeId": "jap-chef-1234-recipe1",
+                "recipeName": "Miso Soup",
+                "recipeImage": "https://img.freepik.com/free-photo/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients_1150-23358.jpg?w=996&t=st=1683051406~exp=1683052006~hmac=5de5b217d7aa1a38e25d9ee8abd7a12d3baed057c4aeb88c92e23faa2b47dc15",
+                "ingredients": [
+                    "Dashi (Japanese soup stock)",
+                    "Miso paste",
+                    "Tofu",
+                    "Wakame seaweed",
+                    "Green onions"
+                ],
+                "cookingMethod": "1. Bring the dashi to a boil in a pot.\n2. Reduce heat and add miso paste, stirring to dissolve.\n3. Add tofu and wakame seaweed and simmer for a few minutes.\n4. Garnish with chopped green onions.",
+                "rating": 4.5
+            },
+            {
+                "recipeId": "jap-chef-1234-recipe2",
+                "recipeName": "Tempura",
+                "recipeImage": "https://img.freepik.com/free-photo/fresh-gourmet-salad-plate-close-up-view-generated-by-ai_188544-10303.jpg?w=1060&t=st=1683051608~exp=1683052208~hmac=df63e01994301f26bcb4eb7ac30dfac018e1c28bc4eef1fe0fa5b4dd3ac628e1",
+                "ingredients": [
+                    "Shrimp",
+                    "Assorted vegetables",
+                    "Tempura batter mix",
+                    "Vegetable oil"
+                ],
+                "cookingMethod": "1. Peel and devein the shrimp, leaving the tail on.\n2. Cut the vegetables into bite-sized pieces.\n3. Mix the tempura batter mix with water according to package instructions.\n4. Heat vegetable oil in a deep fryer or pot.\n5. Dip the shrimp and vegetables in the batter and fry until golden brown.\n6. Drain on paper towels and serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipeId": "jap-chef-1234-recipe3",
+                "recipeName": "Sushi Rolls",
+                "recipeImage": "https://img.freepik.com/free-photo/side-view-mix-sushi-rolls-tray-with-ginger-wasabi_141793-14242.jpg?w=996&t=st=1683051656~exp=1683052256~hmac=7902a2c5815c4db8e88511009cd487428f4f2d9eee0fd83656b7590cdae811bc",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori sheets",
+                    "Assorted fillings (e.g. tuna, salmon, cucumber, avocado)",
+                    "Rice vinegar",
+                    "Sugar",
+                    "Salt"
+                ],
+                "cookingMethod": "1. Cook the sushi rice according to package instructions.\n2. Mix rice vinegar, sugar, and salt in a small bowl and stir until sugar and salt are dissolved.\n3. Spread a sheet of nori on a sushi mat.\n4. Spread a thin layer of rice over the nori, leaving a small border at the top.\n5. Add fillings in a line in the center of the rice.\n6. Roll the sushi, using the mat to help shape it.\n7. Wet the border of the nori with water to seal the roll.\n8. Cut the roll into pieces and serve with soy sauce and wasabi.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "bengali_chef_123",
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-female-cook-purple-apron-offering-plate-fried-mushrooms_144627-66948.jpg?w=996&t=st=1683051290~exp=1683051890~hmac=b66fcebb13fc82eb642ef88b0c98460e92846bcdceb26f70941d88119f287408",
+        "chefName": "Sadia Rahman",
+        "chefBio": "Sadia Rahman is a renowned Bangladeshi chef who has been in the culinary industry for over 20 years. She specializes in traditional Bengali cuisine and is known for her innovative fusion dishes that combine traditional flavors with modern techniques.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 75,
+        "likes": 1500,
+        "recipes": [
+            {
+                "recipeId": "bengali_recipe_1",
+                "recipeName": "Shorshe Ilish",
+                "recipeImage": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?w=996&t=st=1683051783~exp=1683052383~hmac=ac25d10d23c15d1f7cc5dff6468672acdd9ba0006edcfc2826797f20d9874c58",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard seeds",
+                    "Turmeric powder",
+                    "Green chilies",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "Marinate the fish in a paste made of mustard seeds, turmeric powder, and green chilies. Heat mustard oil in a pan and add the fish, cooking it until it is browned and cooked through.",
+                "rating": 4.5
+            },
+            {
+                "recipeId": "bengali_recipe_2",
+                "recipeName": "Chingri Malai Curry",
+                "recipeImage": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?w=996&t=st=1683052046~exp=1683052646~hmac=0347f7d42ee59cd581a92545877c29911a214e799e2be5b24b86b810e74b5a7a",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onions",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "cookingMethod": "Cook onions, ginger, and garlic in a pan until softened, then add prawns and cook until pink. Add coconut milk and cook until the sauce thickens.",
+                "rating": 4.2
+            },
+            {
+                "recipeId": "bengali_recipe_3",
+                "recipeName": "Bhapa Doi",
+                "recipeImage": "https://img.freepik.com/free-photo/avocado-avocado-yogurt-products-made-from-avocado-food-nutrition-concept_1150-26288.jpg?w=996&t=st=1683052215~exp=1683052815~hmac=388a2d6797d75966c961285f507eabf793366f7ad2c2ced5a28f86f09d8e66f1",
+                "ingredients": [
+                    "Yogurt",
+                    "Condensed milk",
+                    "Cardamom powder",
+                    "Saffron",
+                    "Sugar"
+                ],
+                "cookingMethod": "Mix together yogurt, condensed milk, cardamom powder, saffron, and sugar. Pour the mixture into a bowl and steam until set.",
+                "rating": 4.0
+            }
+        ]
+    }
+]
